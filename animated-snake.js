@@ -1,4 +1,3 @@
-/*initiate some globals*/
 let animateSnakeGlobals = {
   startPlayback: false,
   startingTime: 0,
